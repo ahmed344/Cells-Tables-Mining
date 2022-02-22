@@ -1,0 +1,38 @@
+Date,Discription,Incubation,Observation,No,Small,Big,Undefined,Notes
+20211001,SHC on BSA-NTA ,without Ecad inc,small adherance,0,6,2,0,"The 2 big adherence are isolated and have ballons.
+There are another 2 small adherant isolated cells but they look regular and doesn't have any ballons.
+Clean background."
+20211001,SHC on BSA-NTA ,without Ecad obs,big adherance,1,0,9,0,There are bacteria in the background.
+20211001,SHC on BSA-NTA ,with Ecad inc,small adherance,0,4,0,0,clean background.
+20211001,SHC on BSA-NTA ,with Ecad obs,big adherance,0,0,6,2,"Only the late images.
+clean background."
+20211005,SHC on BSA-NTA ,without Ecad,small adherance,6,3,1,2,Bacteria in the background.
+20211005,SHC on BSA-NTA ,with Ecad,big adherance,0,2,12,0,clean background then some bacteria appeared.
+20211011,SHC on BSA-NTA ,without Ecad,no adherance,5,0,1,0,clean background but some long bacteria exist.
+20211011,SHC on BSA-NTA ,with Ecad,no adherance,6,0,0,0,clean background.
+20211015,SHC on BSA-NTA ,without Ecad,big adherance,0,1,6,0,bacteria in the background.
+20211015,SHC on BSA-NTA ,with Ecad,big adherance,0,0,4,0,some bacteria in the background.
+20211029,SHC on BSA ,BSA 1mg,no adherance,6,1,0,0,relatively clean background.
+20211029,SHC on BSA ,BSA 5mg,no adherance,4,0,0,0,relatively clean background.
+20211103,SHC on BSA-NTA ,without Ecad,big adherance,0,2,6,0,relatively clean background.
+20211103,SHC on BSA-NTA ,with Ecad,big adherance,1,4,8,0,relatively clean background.
+20211105,SHC on BSA-NTA BSA-6mg ,without Ecad,no adherance,12,0,0,1,clean background.
+20211105,SHC on BSA-NTA BSA-6mg ,with Ecad,no adherance,26,0,0,0,clean background.
+20211109,SHC SHE on BSA-NTA BSA glass ,shc glass,big adherance,0,0,3,0,clean background.
+20211109,SHC SHE on BSA-NTA BSA glass ,shc without Ecad,no adherance,7,3,0,0,clean background.
+20211109,SHC SHE on BSA-NTA BSA glass ,shc with Ecad,no adherance,13,8,1,0,relatively clean background.
+20211109,SHC SHE on BSA-NTA BSA glass ,she without Ecad,small adherance,8,3,3,0,"clean background.
+some ballons"
+20211110,SHC SHE on BSA-NTA BSA-5mg ,shc without Ecad,big adherance,0,2,6,0,relatively clean background.
+20211110,SHC SHE on BSA-NTA BSA-5mg ,shc with Ecad,big adherance,0,1,7,0,relatively clean background.
+20211110,SHC SHE on BSA-NTA BSA-5mg ,she BSA 5mg,small adherance,0,1,1,2,"relatively clean background.
+some ballons"
+20211110,SHC SHE on BSA-NTA BSA-5mg ,she without Ecad,big adherance,1,1,6,0,relatively clean background.
+20211110,SHC SHE on BSA-NTA BSA-5mg ,she with Ecad,small adherance,3,7,1,0,"relatively clean background.
+the only big adherent cell has ballons."
+20211115,SHC SHE  on BSA ,SHC 1mg,no adhesion,4,5,0,0,relatively clean background.
+20211115,SHC SHE  on BSA ,shc 5mg,no adhesion,6,0,0,0,"clean background.
+no ballons"
+20211115,SHC SHE  on BSA ,she 1mg,no adhesion,5,2,0,0,relatively clean background.
+20211115,SHC SHE  on BSA ,she 5mg,no adhesion,9,2,0,0,"clean background.
+some ballons."
